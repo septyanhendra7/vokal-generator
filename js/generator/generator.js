@@ -1,4 +1,4 @@
-function proses() {
+function vokal() {
       var kalimat = document.getElementById("input").value;
       var a_vocal = document.getElementById("a");
       var i_vocal = document.getElementById("i");
